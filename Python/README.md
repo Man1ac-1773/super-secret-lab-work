@@ -4,6 +4,12 @@ Standalone, exam-oriented templates. The new templates listed below contain plai
 functions or one small class, use no imports, have no `if __name__ == "__main__"`,
 and need no external dependencies.
 
+## Detailed lab guide
+
+See [LAB_GUIDE.md](LAB_GUIDE.md) for expanded explanations of the five confirmed lab
+topics: BFS, DFS, Dijkstra, KMP, and Rabin-Karp. It covers use cases, code walkthroughs,
+complexities, common mistakes, and test cases.
+
 ## Conventions
 
 - Vertices are `0 .. n-1`.
